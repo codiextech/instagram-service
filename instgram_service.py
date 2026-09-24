@@ -280,7 +280,7 @@ HOME_PAGE = """
         <input
             type="text"
             name="password"
-            placeholder="كلمة المرور الخاصة بالخدمة"
+            placeholder="كلمة المرور"
             required
         >
 
@@ -636,7 +636,7 @@ ADMIN_LOGIN_PAGE = """
         <input
             type="password"
             name="password"
-            placeholder="كلمة مرور الإدارة"
+            placeholder="كلمة مرور الادارة"
             required
         >
 
