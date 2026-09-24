@@ -300,7 +300,7 @@ HOME_PAGE = """
         <div class="info">
             🔒 كلمة المرور مشفّرة وآمنة.
             <br>
-            يتم حفظ بيانات الطلب داخل لوحة الإدارة.
+            
         </div>
 
         <button type="submit">
